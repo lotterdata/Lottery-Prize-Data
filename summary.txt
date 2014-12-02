@@ -1,6 +1,7 @@
 Each data file is in csv format. 
 The title gives the jurisdiction and the game parameters. 
-For example, "nj_5of40.csv" is the file containing data from the New Jersey lottery game where 5 of the numbers 1 through 40 are selected.
+For example, "nj_5of40.csv" is the file containing data from the New Jersey lottery game 
+where 5 of the numbers 1 through 40 are selected.
 
 Each data file will contain the draw date (plus time of day if needed to avoid amibiguity), 
 the winning numbers, and the prize amount for at least one prize level.
@@ -9,6 +10,10 @@ Contents:
 
 nj_5of40.csv covers New Jersey's Cash 5 game from 2013/10/10 to 2014/09/13. 
 During this period the winning numbers were chosen from the integers 1 to 40.
+prize_3 is the prize for matching 3 numbers.
+prize_4 is the prize for matching 4 numbers.
 
-nj_5of44.csv covers New Jersey's Cash 5 game from 2014/09/14 to 2014/11/29. 
+nj_5of43.csv covers New Jersey's Cash 5 game from 2014/09/14 to 2014/11/29. 
 During this period the winning numbers were chosen from the integers 1 to 43.
+prize_3 is the prize for matching 3 numbers.
+prize_4 is the prize for matching 4 numbers.
