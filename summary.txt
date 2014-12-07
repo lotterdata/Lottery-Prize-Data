@@ -17,3 +17,8 @@ nj_5of43.csv covers New Jersey's Cash 5 game from 2014/09/14 to 2014/11/29.
 During this period the winning numbers were chosen from the integers 1 to 43.
 prize_3 is the prize for matching 3 numbers.
 prize_4 is the prize for matching 4 numbers.
+
+pa_5of43.csv covers Pennsylvania's Cash 5 game from 2012/01/01 to 2014/11/23. 
+During this period the winning numbers were chosen from the integers 1 to 43.
+prize_3 is the prize for matching 3 numbers.
+prize_4 is the prize for matching 4 numbers.
